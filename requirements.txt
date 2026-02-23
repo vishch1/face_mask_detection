@@ -1,0 +1,15 @@
+opencv-python
+tensorflow
+keras
+numpy
+matplotlib
+pandas
+seaborn
+scikit-learn
+deep-sort-realtime
+filterpy
+lap
+flask
+pymongo
+streamlit
+pillow
